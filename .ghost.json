@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "http://localhost:2368",
+    "apiUrl": "http://xenodochial-montalcini-39437c.netlify.app:2368",
     "contentApiKey": "ad7c4f3478043253d353d3aef0"
   },
   "production": {
-    "apiUrl": "https://stoic-lamport-82a06a.netlify.app",
+    "apiUrl": "https://xenodochial-montalcini-39437c.netlify.app",
     "contentApiKey": "ad7c4f3478043253d353d3aef0"
   }
 }
