@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "http://boring-kilby-5dffa8.netlify.app:2368",
+    "apiUrl": "https://ghost.treeni-into.fi",
     "contentApiKey": "aec592373c521ae4c59a6ff5a5"
   },
   "production": {
-    "apiUrl": "https://boring-kilby-5dffa8.netlify.app",
+    "apiUrl": "https://ghost.treeni-into.fi",
     "contentApiKey": "aec592373c521ae4c59a6ff5a5"
   }
 }
